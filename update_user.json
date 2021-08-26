@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "name": "Test TEST",
+  "username": "Test.Skiles",
+  "email": "Test.test@billy.biz",
+  "address": {
+    "street": "Rex Trail",
+    "suite": "Suite 280",
+    "city": "Test",
+    "zipcode": "58804-1099",
+    "geo": {
+      "lat": "24.8918",
+      "lng": "21.8984"
+    }
+  },
+  "phone": "210.067.6132",
+  "website": "elvis.io",
+  "company": {
+    "name": "Test Group",
+    "catchPhrase": "Configurable multimedia task-force",
+    "bs": "generate enterprise e-tailers"
+  }
+}

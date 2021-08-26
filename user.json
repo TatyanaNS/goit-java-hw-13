@@ -1,0 +1,23 @@
+
+{
+  "name": "Test Test",
+  "username": "TEST",
+  "email": "test@gmail.com",
+  "address": {
+    "street": "Nick Light",
+    "suite": "Apt. 987",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-43.8725",
+      "lng": "94.15732"
+    }
+  },
+  "phone": "3-457-978-5874 x83547",
+  "website": "test.org",
+  "company": {
+    "name": "Romaguera-Crona",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+  }
+}
